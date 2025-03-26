@@ -12,5 +12,5 @@ const swap = (arr) => {
     return arr;
 
 }
-export { swap };
+export default swap ;
 // END
